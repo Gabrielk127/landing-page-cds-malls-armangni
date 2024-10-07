@@ -1,5 +1,7 @@
 # Landing Page - Consultoria CDs e MALLS Armangni
 
+🔗http://malls.axnegocioseinvestimentos.com.br
+
 Uma landing page desenvolvida em Next.js, projetada para um negócio de consultoria.
 
 ## Funcionalidades
